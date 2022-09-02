@@ -1,0 +1,14 @@
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.csproj.AssemblyReference.cache
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.AssemblyInfoInputs.cache
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.AssemblyInfo.cs
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.csproj.CoreCompileInputs.cache
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/bin/Debug/netcoreapp3.1/VariablesProject1
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/bin/Debug/netcoreapp3.1/VariablesProject1.deps.json
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/bin/Debug/netcoreapp3.1/VariablesProject1.runtimeconfig.json
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/bin/Debug/netcoreapp3.1/VariablesProject1.runtimeconfig.dev.json
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/bin/Debug/netcoreapp3.1/VariablesProject1.dll
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/bin/Debug/netcoreapp3.1/VariablesProject1.pdb
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.dll
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.pdb
+/Users/KatelynYaeger/Desktop/repos/VariablesProject1/VariablesProject1/obj/Debug/netcoreapp3.1/VariablesProject1.genruntimeconfig.cache
